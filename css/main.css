@@ -223,6 +223,9 @@ form {
 .item-datapicker__btn {
 	height: 26px;
 	width: 26px;
+	padding: 0;
+	border: none;
+	background: transparent;
 	border-left: 1px solid #dedede;
 	display: flex;
 	align-items: center;
